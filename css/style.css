@@ -25,6 +25,7 @@
    --border:.1rem solid rgba(255,255,255,.3);
 }
 
+
 *{
    font-family: 'Comfortaa', cursive;
    margin: 0; padding: 0;
@@ -32,6 +33,7 @@
    text-decoration: none;
    outline: none; border: none;
 }
+
 
 *::selection{
    background-color: var(--main-color);
