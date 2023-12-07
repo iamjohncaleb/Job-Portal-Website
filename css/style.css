@@ -5,6 +5,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap');
 
 
+
 :root{
    /* --main-color:#2980b9; */
    /* --main-color:#ffd32a; */
@@ -25,6 +26,7 @@
    --box-shadow:none;
    --border:.1rem solid rgba(255,255,255,.3);
 }
+
 
 
 *{
